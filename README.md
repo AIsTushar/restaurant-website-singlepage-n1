@@ -7,7 +7,7 @@ Visitors can easily navigate through the website to learn more about the restaur
 ## Live Demo
 
 You can view the live demo of this restaurant website landing page by clicking on the following 
-link: [Restaurant Website]((https://aistushar.github.io/restaurant-website-singlepage-n1/))
+link: [Restaurant Website](https://aistushar.github.io/restaurant-website-singlepage-n1/)
 
 ## Features
 
